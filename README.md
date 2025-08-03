@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Divyansh Negi</h1>
-<h3 align="center">CSE IIT Mandi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyansh-tech-new&label=Profile%20views&color=0e75b6&style=flat" alt="divyansh-tech-new" /> </p>
 
