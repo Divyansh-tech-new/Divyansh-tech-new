@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **b24122@students.iitmandi.ac.in**
 
-- 📄 Know about my experiences [Worked on some CyberSecurity , AI/ML projects and am working on GenAI based.](Worked on some Blockchain , WebDev , CyberSecurity , AI/ML projects and am working on GenAI based.)
+- 📄 Know about my experiences [Worked on some CyberSecurity , AI/ML projects and am working on GenAI based.]
 
 -📊 I try to make datasets too | ✅ Published Indian Crime Data wrt Population (State-wise, 2001–2013)  | 📥 1.2k+ downloads | 👀 4.5k+ views
 
